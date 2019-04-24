@@ -9,7 +9,7 @@
         <a href="#"><img src="images/CARMEN.jpeg" alt=""></a>
         <h2>Carmen</h2>
         <section class="sectionDetails">
-            <a href=""><button class="btnDetails">Livret</button></a>
+            <a href="acteUn.php"><button class="btnDetails">Livret</button></a>
             <a href=""><button class="btnDetails">Vidéos</button></a>
         </section>
 
