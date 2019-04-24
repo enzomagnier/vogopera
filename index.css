@@ -3,6 +3,34 @@ body {
   padding: 0;
 }
 
+/*TRAVAIL ROMAIN ICI PAGE ACCUEIL */
+main {
+  background: rgba(85, 154, 173, 1);
+  height: 100vh;
+}
+
+.sectionMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 23vh;
+}
+
+.sectionMain .decouvrir {
+  width: 50vw;
+  height: 10vh;
+  border: 1px #ccc solid;
+  text-decoration: none;
+  transition: background 500ms ease;
+  border-radius: 15px;
+}
+
+.decouvrir:hover {
+  background: lightgray;
+}
+
+/*TRAVAIL ROMAIN PAGE ACCUEIL FIN*/
+
 input+label {
   position: fixed;
   top: 30px;
@@ -122,4 +150,14 @@ footer {
   background-color: lightgrey;
   color: blue;
   text-align: center;
+}
+
+.svg {
+  margin: 10%;
+  left: 30%;
+  height: 40%;
+}
+
+.Evenement {
+  color: blue;
 }
