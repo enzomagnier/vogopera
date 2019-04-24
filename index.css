@@ -96,3 +96,7 @@ img{
    height:auto;
    right: 10%;
 }
+footer{
+  text-align: center;
+  background-color: lightgrey;
+}
