@@ -1,2 +1,3 @@
-<footer>  <h1><i>Vogopera</i></h1>
+<footer>  <p><span>Realiser par Vogo</span>Vogopera</p>
+
 </footer>

@@ -193,7 +193,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: lightgrey;
+  background-color: black;
   color: blue;
   text-align: center;
 }
@@ -205,5 +205,15 @@ footer {
 }
 
 .Evenement {
-  color: blue;
+  color: white;
+}
+p {
+  color: white;
+  margin-right: 2%;
+  text-align: right;
+}
+p span {
+  float: left;
+  margin-left: 2%;
+
 }
