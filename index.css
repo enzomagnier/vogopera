@@ -3,7 +3,7 @@ body {
   padding: 0;
 }
 
-/*TRAVAIL ROMAIN ICI PAGE ACCUEIL */
+/*TRAVAIL ROMAIN ICI */
 main {
   background: rgba(85, 154, 173, 1);
   height: 100vh;
@@ -29,7 +29,53 @@ main {
   background: lightgray;
 }
 
-/*TRAVAIL ROMAIN PAGE ACCUEIL FIN*/
+.btnDetails {
+  width: 30vw;
+  height: 10vh;
+  border: 1px #ccc solid;
+  text-decoration: none;
+  transition: background 500ms ease;
+  border-radius: 15px;
+}
+
+.btnDetails:hover {
+  background: lightgray;
+}
+main > img {
+  width: 100vw;
+}
+main > h2 {
+  text-align: center;
+  color: white;
+}
+
+.synopsisDetails > h3 {
+  color: white;
+}
+
+.sectionDetails {
+  display: flex;
+  justify-content: center;
+}
+
+.sectionDetails a {
+  margin: 0 10px;
+}
+
+.synopsisDetails {
+padding-left: 3rem;
+}
+
+@media(min-width: 900px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+/*TRAVAIL ROMAIN  FIN*/
 
 input+label {
   position: fixed;
