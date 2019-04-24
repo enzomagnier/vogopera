@@ -114,6 +114,12 @@ footer{
 .Evenement{
   color: blue;
 }
-.flight{
-  
+p {
+  text-align: right;
+  margin-right: 10%;
+
+}
+p span {
+  float: left;
+  margin-left: 10%;
 }
