@@ -7,6 +7,6 @@
   <img src="https://www.montpellier3m.fr/sites/default/files/Hommes_d%27affaires_VDA_0005bis_0.jpg" alt="">
   <hr></hr>
 
-<footer>Vogopera</footer>
+<?php include 'footer.php'; ?>
   </body>
 </html>
