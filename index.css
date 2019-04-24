@@ -18,7 +18,7 @@ input + label span {
   margin-top: -1px;
   left: 0;
   display: block;
-  background: #020304;
+  background: white;
   transition: .5s;
 }
 input + label span:first-child {
@@ -89,7 +89,7 @@ input:checked ~ nav > ul > li {
 }
 h1{
   text-align: center;
-  color: blue;
+  color: white;
 }
 img{
   max-width:101%;
@@ -101,15 +101,19 @@ footer{
     left: 0;
       bottom: 0;
       width: 100%;
-      background-color: lightgrey;
-      color: blue;
+      background-color: black;
+      color: white;
       text-align: center;
 }
 .svg{
-  margin: 10%;
-  left: 30%;
-  height: 40%;
+  margin-left: 41%;
+  left: 35%;
+  height: 47%;
+  align-items: center;
 }
 .Evenement{
   color: blue;
+}
+.flight{
+  
 }

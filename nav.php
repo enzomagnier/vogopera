@@ -1,6 +1,6 @@
 <nav>
   <img src="" alt="">
-  <h1><i>Vogopera</i></h1>
+  <h1><i></i></h1>
   <img class="svg" src="logo.svg"></img>
 
   <ul>
