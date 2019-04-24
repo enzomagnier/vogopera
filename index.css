@@ -29,6 +29,14 @@ main {
   background: lightgray;
 }
 
+@media(min-width: 900px){
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+}
 /*TRAVAIL ROMAIN PAGE ACCUEIL FIN*/
 
 input+label {
