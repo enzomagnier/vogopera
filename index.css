@@ -9,6 +9,9 @@ main {
   height: 100vh;
   overflow: hidden;
 }
+.marginTop {
+  margin-top: 5rem;
+}
 
 .sectionMain {
   display: flex;
@@ -172,9 +175,12 @@ input~nav {
   overflow: hidden;
 }
 
+input {
+  display: none;
+}
+
 input~nav>ul {
   text-align: center;
-  position: absolute;
   top: 35%;
   left: 20%;
   right: 20%;
@@ -231,13 +237,13 @@ footer {
   color: blue;
   text-align: center;
 }
-
 .svg {
   margin: 1rem;
   left: 35%;
   height: 47%;
   align-items: center;
   margin-top: 7%;
+  width: 10%;
 }
 
 .Evenement {
@@ -298,4 +304,12 @@ p span {
 .evenement {
   color: white;
 
+}
+
+.divLogo {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  justify-items: center;
 }

@@ -5,7 +5,7 @@
 <body>
     <?php require_once 'mod.php'; ?>
     <?php include 'nav.php'; ?>
-    <main>
+    <main class="marginTop">
         <a href="details.php"><img src="images/CARMEN.jpeg" alt=""></a>
         <a href="#"><img src="images/notre-dame.jpg" alt=""></a>
         <a href="#"><img src="images/latrivi.jpg" alt=""></a>
