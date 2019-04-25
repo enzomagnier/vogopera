@@ -69,6 +69,12 @@ main>h2 {
   padding-left: 3rem;
 }
 
+.synopsisDetails p {
+  color: black;
+  text-align: unset;
+  float: unset;
+}
+
 .sectionacteUn {
   background: white;
   border-radius: 15px;
@@ -227,21 +233,33 @@ footer {
 }
 
 .svg {
-  margin: 10%;
-  left: 30%;
-  height: 40%;
+  margin: 1rem;
+  left: 35%;
+  height: 47%;
+  align-items: center;
+  margin-top: 7%;
 }
 
 .Evenement {
   color: white;
 }
+
 p {
   color: white;
   margin-right: 2%;
   text-align: right;
 }
+
 p span {
   float: left;
-  margin-left: 2%;
+}
 
+.dd {
+  float: left;
+  margin-left: 4%;
+}
+
+.ss {
+  float: right;
+  margin-right: 10%;
 }
