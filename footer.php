@@ -1,3 +1,3 @@
-<footer class="fligh">   <p>© Réalisé par VOGO</p>
- <h1><i>Vogopera</i></h1>
+<footer class="fligh">
+  <p class="dd"><span>© Réalisé par VOGO</span><p class="ss">Vogopera</p></p>
 </footer>

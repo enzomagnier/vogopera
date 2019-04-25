@@ -8,6 +8,7 @@
     <li><a href="Evenement.php">Evenement</a></li>
     <li><a href="#">Visite Virtuelle</a></li>
     <li><a href="#">Live et Virtuelle</a></li>
+    <li><a href="live.php">Live et Virtuelle</a></li>
 
   </ul>
 </nav>

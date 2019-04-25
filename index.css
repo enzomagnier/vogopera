@@ -211,3 +211,35 @@ footer{
 .flight{
 
 }
+.dd{
+  float: left;
+  margin-left: 10%;
+}
+.ss{
+  float: right;
+  margin-right: 10%;
+}
+.manager{
+  padding: 1px;
+  width: 100%;
+  background-color: grey;
+}
+.evenement{
+
+color: black;
+}
+.videoWrapper {
+  padding: 10%;
+
+position: relative;
+padding-bottom: 56.25%;
+padding-top: -14px;
+height: 0;
+}
+.videoWrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
