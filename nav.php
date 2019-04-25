@@ -1,6 +1,6 @@
 <nav>
   <div >
-  <a class="divLogo" href=""><img class="svg" src="logo.svg"></a>
+  <a class="divLogo" href="index.php"><img class="svg" src="logo.svg"></a>
 </div>
   <ul>
     <li><a href="index.php">Accueil</a></li>
