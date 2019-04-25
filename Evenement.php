@@ -7,7 +7,7 @@
 <?php include 'footer.php'; ?>
 <div class="conta">
 <center class="Evenement"><h2>Evenement<center></h2>
-  <hr></hr>
+  <hr>
   
 </div>
   </body>

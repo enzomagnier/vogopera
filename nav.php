@@ -4,7 +4,7 @@
 </div>
   <ul>
     <li><a href="index.php">Accueil</a></li>
-    <li><a href="Evenement.php">Evenement</a></li>
+    <li><a href="programmes.php">Evenement</a></li>
     <li><a href="#">Visite Virtuelle</a></li>
     <li><a href="live1.php">Live et Virtuelle</a></li>
 
