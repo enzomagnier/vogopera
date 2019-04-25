@@ -19,7 +19,8 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quibusdam consequatur. Fugit, inventore. Rem itaque at id beatae officiis excepturi numquam! Repudiandae, dolorum alias. Illo excepturi fugit labore dolor optio.</p>
             </article>
             <article>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, hic inventore labore esse nulla laborum ipsa vel eligendi. Molestias minima dignissimos repellendus maxime praesentium nobis ex pariatur iusto dolor tempora.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, hic inventore labore esse nulla laborum ipsa vel <span class="arrow"><a href="acteDeux.php"><img src="images/logo_transition.jpeg" alt=""></a></span> eligendi. Molestias minima dignissimos repellendus maxime praesentium nobis ex pariatur iusto dolor tempora.</p>
+               
             </article>
             <article>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam dicta ratione maiores iusto est! Reprehenderit accusantium rem deleniti tempora quam minima incidunt. Earum ut fuga consequatur distinctio quidem quae nihil.</p>
