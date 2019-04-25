@@ -11,23 +11,10 @@
       <img src="https://ultra-k.fr/wp-content/uploads/2017/07/ARTE_Ultra-HD_HDR_Carmen_de_Bizet-1024x567.jpg" alt="">
       <main>
         <section class="sectionMain">
-          <a href="programmes.php" target="_blank"><button class="decouvrir">Live</button></a>
+          <a href="programmes.php"><button class="decouvrir">Live</button></a>
         </section>
         <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="349" src="http://www.youtube.com/embed/n_dZNLr2cME?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<hr>
-<div class="videoWrapper">
-<!-- Copy & Pasted from YouTube -->
-<iframe width="560" height="349" src="http://www.youtube.com/embed/n_dZNLr2cME?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<hr>
-
-<div class="videoWrapper">
-<!-- Copy & Pasted from YouTube -->
-<iframe width="560" height="349" src="http://www.youtube.com/embed/n_dZNLr2cME?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
       </main>
     <?php include 'nav.php'; ?>
     <?php include 'footer.php'; ?>

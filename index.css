@@ -288,3 +288,14 @@ p span {
   width: 10vw;
   height: 5vh;
 }
+
+.manager {
+  padding: 1px;
+  width: 100%;
+  background-color: grey;
+}
+
+.evenement {
+  color: white;
+
+}
