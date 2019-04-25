@@ -255,3 +255,34 @@ p span {
   margin-left: 2%;
 
 }
+
+.interview{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  color: white;
+}
+
+.vidMaria{
+  margin-top: 4em;
+  display: flex;
+  justify-content: center;
+}
+
+.centreLogo{
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+
+.language{
+  margin: 2em;
+  display: flex;
+  background: #C4C4C4;
+  justify-content: space-around ;
+}
+.language a {
+  color: black;
+  text-decoration: none;
+
+}
